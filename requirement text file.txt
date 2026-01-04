@@ -1,0 +1,6 @@
+requirement text
+
+streamlit
+scikit-learn
+pandas
+joblib
